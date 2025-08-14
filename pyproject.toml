@@ -1,0 +1,7 @@
+[project]
+name = "claude-code-hooks"
+version = "0.1.0"
+description = "Reduce developer cognitive load with these useful Claude Code hooks."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
